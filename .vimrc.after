@@ -1,0 +1,6 @@
+" Shortcut for toggling ruby block style
+let g:blockle_mapping = '<Leader>7'
+
+" Latex settings
+let g:tex_flavor='latex'
+let g:Tex_IgnoreLevel=4

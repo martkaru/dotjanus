@@ -1,0 +1,9 @@
+[submodule "vim-blockle"]
+	path = vim-blockle
+	url = git://github.com/jgdavey/vim-blockle.git
+[submodule "vim-ragtag"]
+	path = vim-ragtag
+	url = git://github.com/tpope/vim-ragtag.git
+[submodule "vim-latex"]
+	path = vim-latex
+	url = git://github.com/micheljansen/vim-latex.git

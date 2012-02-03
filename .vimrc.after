@@ -1,3 +1,4 @@
+call togglebg#map("<F6>")
 
 " Latex settings
 let g:tex_flavor='latex'

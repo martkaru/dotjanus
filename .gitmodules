@@ -7,3 +7,9 @@
 [submodule "vim-latex"]
 	path = vim-latex
 	url = git://github.com/micheljansen/vim-latex.git
+[submodule "snipmate.vim"]
+	path = snipmate.vim
+	url = git://github.com/msanders/snipmate.vim.git
+[submodule "sparkup"]
+	path = sparkup
+	url = git://github.com/rstacruz/sparkup.git

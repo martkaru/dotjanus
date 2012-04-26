@@ -1,2 +1,1 @@
-let mapleader = ","
-let g:blockle_mapping = '<Leader>bb'
+let g:blockle_mapping = '\bb'

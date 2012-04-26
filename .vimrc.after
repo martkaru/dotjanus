@@ -1,5 +1,11 @@
+" set up solarized
+colorscheme solarized
+set background=dark
 call togglebg#map("<F6>")
 
 " Latex settings
 let g:tex_flavor='latex'
 let g:Tex_IgnoreLevel=4
+let g:blockle_mapping = '<F7>'
+
+set guifont=Inconsolata:h12

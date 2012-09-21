@@ -8,3 +8,7 @@ let g:tex_flavor='latex'
 let g:Tex_IgnoreLevel=4
 
 set guifont=Inconsolata:h12
+
+command! -bar -range=% NotRocket :<line1>,<line2>s/:\(\w\+\)\s*=>/\1:/ge
+:map <Leader>hr :NotRocket<CR>
+

@@ -7,3 +7,6 @@
 [submodule "vim-ragtag"]
 	path = vim-ragtag
 	url = git://github.com/tpope/vim-ragtag.git
+[submodule "tabular"]
+	path = tabular
+	url = https://github.com/godlygeek/tabular

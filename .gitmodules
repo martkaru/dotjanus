@@ -10,3 +10,6 @@
 [submodule "tabular"]
 	path = tabular
 	url = https://github.com/godlygeek/tabular
+[submodule "vim-align"]
+	path = vim-align
+	url = git://github.com/tsaleh/vim-align.git

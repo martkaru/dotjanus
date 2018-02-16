@@ -13,3 +13,9 @@
 [submodule "vim-latex"]
 	path = vim-latex
 	url = git@github.com:vim-latex/vim-latex.git
+[submodule "elm.vim"]
+	path = elm.vim
+	url = https://github.com/lambdatoast/elm.vim.git
+[submodule "elm-vim"]
+	path = elm-vim
+	url = https://github.com/ElmCast/elm-vim

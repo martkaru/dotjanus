@@ -31,3 +31,9 @@
 [submodule "switch.vim"]
 	path = switch.vim
 	url = https://github.com/AndrewRadev/switch.vim.git
+[submodule "vim-orgmode"]
+	path = vim-orgmode
+	url = git@github.com:jceb/vim-orgmode.git
+[submodule "vim-speeddating"]
+	path = vim-speeddating
+	url = git@github.com:tpope/vim-speeddating.git
